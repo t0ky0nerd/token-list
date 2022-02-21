@@ -115635,7 +115635,24 @@
       "extensions": {
         "website": "https://blocksto.ne/trust-wallet/"
       }
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "2Bgp5rK6XjfFZKo4Tm7TfErg8iDmHWJspXhnD4tWaVez",
+      "symbol": "TYO",
+      "name": "Tokyo Coin",
+      "decimals": 0,
+      "logoURI": "https://github.com/t0ky0nerd/crypto/blob/main/TokyoCoin.png",
+      "tags": [
+        "community-token"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/MsvXHEnqPB",
+        "instagram": "http://instagram.com/tokyocoin.io",
+        "twitter": "https://twitter.com/tokyocoin_io",
+        "website": "https://tokyocoin.io/"
+      }
+    }    
   ],
   "version": {
     "major": 0,
